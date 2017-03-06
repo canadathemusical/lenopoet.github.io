@@ -7,6 +7,10 @@ body {
 
 }
 
+.white {
+    color: white;
+}
+
 .allThings {
     background-color: #000000;
 }
