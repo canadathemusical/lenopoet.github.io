@@ -11,6 +11,11 @@ body {
     color: white;
 }
 
+.navbar-form navbar-left {
+    background-color: #fff;
+}
+
+
 .allThings {
     background-color: #000000;
 }
