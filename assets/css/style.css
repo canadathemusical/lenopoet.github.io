@@ -30,7 +30,8 @@ body
 h1 {
   color: #000000;
 }
-#timerArea {
+#timerArea, #countdown {
   color: #000000;
   font-size: 25px;
 }
+

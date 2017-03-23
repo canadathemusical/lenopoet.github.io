@@ -1,1 +1,2 @@
-# lenopoet.github.io
+# trivia
+A trivia game for UCF Coding Bootcamp
